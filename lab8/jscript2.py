@@ -7,7 +7,6 @@ import json
 with open('schacon.json', 'r') as file:
     data = json.load(file)
 
-jsonf = 'data'
 csvf = 'chacon.csv'
 
 line_count = 0
